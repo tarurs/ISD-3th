@@ -7,4 +7,10 @@ Communal Payments
 - печать данных с учетом показаний и сумм
 - Переход на сайт complatezh.info и передача по API показаний счетчиков. 
 
+Для запуска:
+Сommunal_Payments.exe по адресу /Сommunal_Payments/bin/Debug/
+
+Для редактирования:
+Клонировать репозиторий на свой ПК и запустить Сommunal_Payments.sln
+
 
