@@ -1,0 +1,10 @@
+C:\Users\polin_go7afbi\source\repos\Сommunal_Payments\Сommunal_Payments\bin\Debug\Сommunal_Payments.exe.config
+C:\Users\polin_go7afbi\source\repos\Сommunal_Payments\Сommunal_Payments\bin\Debug\Сommunal_Payments.exe
+C:\Users\polin_go7afbi\source\repos\Сommunal_Payments\Сommunal_Payments\bin\Debug\Сommunal_Payments.pdb
+C:\Users\polin_go7afbi\source\repos\Сommunal_Payments\Сommunal_Payments\obj\Debug\Сommunal_Payments.csprojResolveAssemblyReference.cache
+C:\Users\polin_go7afbi\source\repos\Сommunal_Payments\Сommunal_Payments\obj\Debug\Сommunal_Payments.Form1.resources
+C:\Users\polin_go7afbi\source\repos\Сommunal_Payments\Сommunal_Payments\obj\Debug\Сommunal_Payments.Properties.Resources.resources
+C:\Users\polin_go7afbi\source\repos\Сommunal_Payments\Сommunal_Payments\obj\Debug\Сommunal_Payments.csproj.GenerateResource.Cache
+C:\Users\polin_go7afbi\source\repos\Сommunal_Payments\Сommunal_Payments\obj\Debug\Сommunal_Payments.csproj.CoreCompileInputs.cache
+C:\Users\polin_go7afbi\source\repos\Сommunal_Payments\Сommunal_Payments\obj\Debug\Сommunal_Payments.exe
+C:\Users\polin_go7afbi\source\repos\Сommunal_Payments\Сommunal_Payments\obj\Debug\Сommunal_Payments.pdb
